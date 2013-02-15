@@ -1,4 +1,2 @@
-static_app
-==========
-
-Simple static tomcat java app
+java_demo
+=========
