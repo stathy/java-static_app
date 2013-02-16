@@ -8,5 +8,23 @@
 <title>Opscode: Chef Static Java App</title>
 </head>
 <h2>Opscode: Chef Static Java App</h2>
+<h4>  
+<script type="text/javascript">
+<!--
+var currentTime = new Date()
+var hours = currentTime.getHours()
+var minutes = currentTime.getMinutes()
+if (minutes < 10){
+minutes = "0" + minutes
+}
+document.write(hours + ":" + minutes + " ")
+if(hours > 11){
+document.write("PM")
+} else {
+document.write("AM")
+}
+//-->
+</script>
+</h4>
 </body>
 </html>
